@@ -1,7 +1,7 @@
 ---
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
 title: Visual Mashups
@@ -17,7 +17,7 @@ publisher:
   url: null
   favicon: null
 datePublished: '2015-07-04T20:33:22.146Z'
-dateModified: '2015-07-04T20:33:22.146Z'
+dateModified: '2015-07-04T21:26:26.869Z'
 sourcePath: _posts/2015-07-04-visual-mashups.md
 published: true
 _type: null
