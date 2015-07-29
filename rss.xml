@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 16:31:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jul 2015 13:17:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deep Convolutional Inverse Graphics Netw...]]></title>
+            <description><![CDATA[<article><h1>Deep Convolutional Inverse Graphics Netw...</h1><p>Deep Convolutional Inverse Graphics NetworkResearch paper from MIT uses deep learning and neural networks to 'hallucinate' a 3D face from a 2D image:Deep Convolution Inverse Graphics Network (DC-IGN), a model that learns an interpretable representation of images.</p><img src="http://33.media.tumblr.com/391881d4e6721f9fb14d5c6194faa7c0/tumblr_ns5xkyRbLq1qav3uso2_r1_250.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/125196352586/deep-convolutional-inverse-graphics-network</link>
+            <guid isPermaLink="false">8ed9de6e-58dd-4240-b5e6-c52d0b167c0d</guid>
+            <pubDate>Wed, 29 Jul 2015 13:17:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><h1></h1><p></p><img src="http://d11cbnttr0b724.cloudfront.net/img_dreamed/437898.jpg"></article>]]></description>
