@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 13:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 21:21:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Comparing the hallucinations of four similarly trained neural nets]]></title>
+            <description><![CDATA[<article><h1>Comparing the hallucinations of four similarly trained neural nets</h1><p>Before training my own dreaming network, I'll need to choose a network layout that suits my needs. In order to learn about the strengths and weaknesses of different layouts, I've run the same guided dreaming tour with four different Imagenet-pretrained models: GoogLeNet, VGG CNN-F, VGG CNN-S and Network-in Network Imagenet model (all available via Caffe model zoo).</p><img src="https://i.ytimg.com/vi/32GnAI3nrsQ/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=32GnAI3nrsQ</link>
+            <guid isPermaLink="false">fd2d3184-a96a-4ecf-8c1e-46ebd6ddd20b</guid>
+            <pubDate>Thu, 30 Jul 2015 21:21:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deep Convolutional Inverse Graphics Netw...]]></title>
             <description><![CDATA[<article><h1>Deep Convolutional Inverse Graphics Netw...</h1><p>Deep Convolutional Inverse Graphics NetworkResearch paper from MIT uses deep learning and neural networks to 'hallucinate' a 3D face from a 2D image:Deep Convolution Inverse Graphics Network (DC-IGN), a model that learns an interpretable representation of images.</p><img src="http://33.media.tumblr.com/391881d4e6721f9fb14d5c6194faa7c0/tumblr_ns5xkyRbLq1qav3uso2_r1_250.gif"></article>]]></description>
