@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[guided hallucination]]></title>
+        <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 08 Aug 2015 14:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2015 19:51:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Composing Music With Recurrent Neural Networks]]></title>
+            <description><![CDATA[<article><h1>Composing Music With Recurrent Neural Networks</h1><p>It's hard not to be blown away by the surprising power of neural networks these days. With enough training, so called "deep neural networks", with many nodes and hidden layers, can do impressively well on modeling and predicting all kinds of data.</p><img src="http://www.hexahedria.com/wp-content/uploads/2015/08/diags-figure8.pdf.png"></article>]]></description>
+            <link>http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/</link>
+            <guid isPermaLink="false">23f134f4-a29f-4bb4-acea-86ba6be6c4b1</guid>
+            <pubDate>Sun, 09 Aug 2015 19:51:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Puppyslugs 'R Us: Part 1]]></title>
             <description><![CDATA[<article><h1>Puppyslugs 'R Us: Part 1</h1><p>In " Puppyslugs 'R Us: Part 0 ", I started out quite cheekily on a topic I hope to explore here in a bit more serious detail. Intro I am going to start with the recent Google "DeepDream" release and the so-called Puppyslug images you've likely encountered, explaining roughly what those are and how they come to be.</p><img src="https://cdn-images-1.medium.com/max/600/1*gjHCddtiDGSSqZFKeAnxag.png"></article>]]></description>
