@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 10 Aug 2015 20:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2015 03:18:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eigenstyle]]></title>
+            <description><![CDATA[<article><h1>Eigenstyle</h1><p>Principal Component Analysis and Fashion Any set of images can be broken down with Principal Component Analysis. This has been done pretty successfully with faces. Here we&rsquo;ll take a look at style. Our dataset is 807 pictures of dresses from Amazon.</p><img src="http://graceavery.com/eigenstyle/0_eigendress.png"></article>]]></description>
+            <link>http://blog.thehackerati.com/post/126701202241/eigenstyle</link>
+            <guid isPermaLink="false">20ece8c7-5e5c-480b-a884-a4bfa40a3d67</guid>
+            <pubDate>Thu, 20 Aug 2015 03:17:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <guid isPermaLink="false">ad31ef10-e553-45a8-a720-a0871504ea81</guid>
