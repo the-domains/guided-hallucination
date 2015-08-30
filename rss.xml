@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 29 Aug 2015 17:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2015 20:11:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p></p><img src="http://imgur.com/ofsCrgc.jpg"></article>]]></description>
+            <link>http://i.imgur.com/ofsCrgc.jpg</link>
+            <guid isPermaLink="false">015e15e6-5de7-4e88-8409-e39e1e730f29</guid>
+            <pubDate>Sun, 30 Aug 2015 20:10:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An image recognition network dreams about every object it knows. Part 2/2: non-animals.]]></title>
             <description><![CDATA[<article><h1>An image recognition network dreams about every object it knows. Part 2/2: non-animals.</h1><p>Network used: VGG CNN-S (pretrained with Imagenet) There are 1000 output neurons in the network, one for each image recognition category. In this video, the output of each of these neurons is separately amplified using backpropagation (i.e. deep dreaming). The middle line shows the category title of the amplified neuron.</p><img src="https://i.ytimg.com/vi/4s9MFk0SMlM/hqdefault.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <link>http://www.kpkaiser.com/programming/defeating-facebooks-deepface-with-deepdreams/</link>
             <guid isPermaLink="false">586b116a-d1c3-4aae-9d97-673f5cb548b9</guid>
             <pubDate>Mon, 03 Aug 2015 10:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze]]></title>
-            <description><![CDATA[<article><h1>Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze</h1><p>In the late '90s, Tomi Poutanen, a precocious computer whiz from Finland, hoped to do his dissertation on neural networks, a scientific method aimed at teaching computers to act and think like humans. As a student at the University of Toronto, it was a logical choice.</p><img src="https://recodetech.files.wordpress.com/2015/07/bengio-lecun-2007.jpg?quality=80&strip=info&w=380&strip=info"></article>]]></description>
-            <link>http://recode.net/2015/07/15/ai-conspiracy-the-scientists-behind-deep-learning/</link>
-            <guid isPermaLink="false">0a9fb38f-3a7d-4823-8076-b5506b6a50fd</guid>
-            <pubDate>Thu, 30 Jul 2015 21:39:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
