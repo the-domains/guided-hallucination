@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Sep 2015 17:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2015 17:58:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="gogh&comma; un-goghed" src="https://pbs.twimg.com/media/CNxnbLVUkAQcEoJ.jpg:large">]]></description>
+            <link>https://twitter.com/kcimc/status/638498964606726144</link>
+            <guid isPermaLink="false">965af227-fd81-4af7-a6b7-7b63ee48d1e8</guid>
+            <pubDate>Tue, 01 Sep 2015 17:58:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comparing Artificial Artists]]></title>
             <description><![CDATA[<article><h1>Comparing Artificial Artists</h1><p>The definition of the Gram matrix confused me at first, so I wrote it out as code.</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*vwigEJqcY1XAAq_1hA8brA.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <link>http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/</link>
             <guid isPermaLink="false">23f134f4-a29f-4bb4-acea-86ba6be6c4b1</guid>
             <pubDate>Sun, 09 Aug 2015 19:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Puppyslugs 'R Us: Part 1]]></title>
-            <description><![CDATA[<article><h1>Puppyslugs 'R Us: Part 1</h1><p>In " Puppyslugs 'R Us: Part 0 ", I started out quite cheekily on a topic I hope to explore here in a bit more serious detail. Intro I am going to start with the recent Google "DeepDream" release and the so-called Puppyslug images you've likely encountered, explaining roughly what those are and how they come to be.</p><img src="https://cdn-images-1.medium.com/max/600/1*gjHCddtiDGSSqZFKeAnxag.png"></article>]]></description>
-            <link>https://medium.com/@borisanthony/puppyslugs-r-us-part-1-88461c2104ba</link>
-            <guid isPermaLink="false">66c7ce1c-26cc-4329-bf38-fc1ac06da2ba</guid>
-            <pubDate>Sat, 08 Aug 2015 14:47:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
