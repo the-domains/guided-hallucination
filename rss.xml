@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Sep 2015 14:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2015 14:59:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="NeuralNet &num;NeuralArt&comma; suggestion from &commat;echophons avec style by Paul Klee&period;" src="https://pbs.twimg.com/media/COGh-QoWUAARByz.jpg:large">]]></description>
+            <link>https://twitter.com/DeepForger/status/639970716037853184</link>
+            <guid isPermaLink="false">7a46041e-2b66-4ab6-bb64-b1f7f9cead48</guid>
+            <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="StyleNet &num;NeuralArt&comma; comissioned by &commat;bnm12hw&period;" src="https://pbs.twimg.com/media/CN_lImQUsAEsywk.png:large">]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=9tQNpg4_sIA</link>
             <guid isPermaLink="false">e9f3c4a2-2eaa-48b7-8520-71ace3abf2ac</guid>
             <pubDate>Wed, 26 Aug 2015 13:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/8b0GR0Y.jpg">]]></description>
-            <link>https://thegrid.ai/guided-hallucination/2c4e0ab6-041b-4d1c-b321-d511e0e28de2/index.html</link>
-            <guid isPermaLink="false">2c4e0ab6-041b-4d1c-b321-d511e0e28de2</guid>
-            <pubDate>Tue, 25 Aug 2015 18:34:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
