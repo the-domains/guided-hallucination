@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Sep 2015 14:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2015 14:59:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="StyleNet &num;NeuralArt&comma; requested by &commat;adurdin" src="https://pbs.twimg.com/media/CN-2C3kWUAAsOLo.png:large">]]></description>
+            <link>https://twitter.com/DeepForger/status/639429835580907521</link>
+            <guid isPermaLink="false">f284d529-4883-4ade-889e-71565e188ed0</guid>
+            <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="StyleNet &num;NeuralArt&comma; inspiration from &commat;jeratt and style by Raphael&period;" src="https://pbs.twimg.com/media/CODJ8KXWoAAVGTP.jpg:large">]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=4s9MFk0SMlM</link>
             <guid isPermaLink="false">ac2c453f-54bd-4167-9e43-227278126d2a</guid>
             <pubDate>Sat, 29 Aug 2015 17:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Neural Algorithm of Artistic StyleAcad...]]></title>
-            <description><![CDATA[<article><h1>A Neural Algorithm of Artistic StyleAcad...</h1><p>A Neural Algorithm of Artistic StyleAcademic paper from Bethge Lab shows method of recreating various artistic styles using neural networks and applying them onto photographs:In fine art, especially painting, humans have mastered the skill to create unique visual experiences through composing a complex interplay between the content and style of an image.</p><img src="http://40.media.tumblr.com/34b05dad66ff2e8b9622206a99a462cc/tumblr_ntsllyibiZ1qav3uso1_500.png"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/127784921171/a-neural-algorithm-of-artistic-style-academic</link>
-            <guid isPermaLink="false">0c7762af-928a-4488-bcdd-61c3034c4e1f</guid>
-            <pubDate>Fri, 28 Aug 2015 20:23:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
