@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Sep 2015 14:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 03:55:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finding Gogh]]></title>
+            <description><![CDATA[<article><h1>Finding Gogh</h1><p>ah, un-goghed was techart trolling :-)</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*popTowt4nxm58SFoxPVGpA.png"></article>]]></description>
+            <link>https://medium.com/@kcimc/finding-gogh-76ff90cbd408</link>
+            <guid isPermaLink="false">4dfa4bc3-982a-4d61-82ca-976a680c4b7a</guid>
+            <pubDate>Sun, 06 Sep 2015 03:55:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="NeuralArt &num;ProceduralArt&comma; requested by &commat;VirtualClint&period;" src="https://pbs.twimg.com/media/COG2iSWVAAAaWZP.png:large">]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4</link>
             <guid isPermaLink="false">3bb85efc-142f-486a-9918-b07824ea1e57</guid>
             <pubDate>Tue, 01 Sep 2015 17:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><h1></h1><p></p><img src="http://imgur.com/ofsCrgc.jpg"></article>]]></description>
-            <link>http://i.imgur.com/ofsCrgc.jpg</link>
-            <guid isPermaLink="false">015e15e6-5de7-4e88-8409-e39e1e730f29</guid>
-            <pubDate>Sun, 30 Aug 2015 20:10:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
