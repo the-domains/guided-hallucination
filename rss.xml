@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 04:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 04:14:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#psychedelic]]></title>
+            <description><![CDATA[<article><h1>#psychedelic</h1><p>seene.co</p><img src="http://d2qkfprjkxv2r7.cloudfront.net/s1024-r90/uploads/scene/poster/f651df13-aa48-4f12-b6d2-c4b697b8d853/poster.jpg"></article>]]></description>
+            <link>http://seene.co/s/L75Gkc/</link>
+            <guid isPermaLink="false">5b2cadee-e3c0-4de6-b37f-8c28a375f62e</guid>
+            <pubDate>Sun, 06 Sep 2015 04:13:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="StyleNet &num;ProceduralArt&comma; suggestion from &commat;nunomaia with style by Pablo Picasso&period;" src="https://pbs.twimg.com/media/COLYzSDUcAACmIq.png:large">]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.synthtopia.com/content/2015/08/26/if-there-was-a-turing-test-for-music-artificial-intelligence-kulitta-might-pass-it/</link>
             <guid isPermaLink="false">c60f5064-03dc-40fc-a995-23797cfc12e8</guid>
             <pubDate>Thu, 03 Sep 2015 03:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="gogh&comma; un-goghed" src="https://pbs.twimg.com/media/CNxnbLVUkAQcEoJ.jpg:large">]]></description>
-            <link>https://twitter.com/kcimc/status/638498964606726144</link>
-            <guid isPermaLink="false">965af227-fd81-4af7-a6b7-7b63ee48d1e8</guid>
-            <pubDate>Tue, 01 Sep 2015 17:58:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
