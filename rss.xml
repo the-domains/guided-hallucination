@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 04:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2015 08:53:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deepdreaming without the Slugdogs]]></title>
+            <description><![CDATA[<article><h1>Deepdreaming without the Slugdogs</h1><p>In our deepnightmares, we&rsquo;ve seen monstrous slugdogs, shoggoths of endless eyes, creatures beyond all reckoning. Wherever we look, a dog&rsquo;s face stares back at us, with their cohort of unflinching finches, all beaks and eyes. We try to escape into different layers, but we are still confronted with monsters of lizards, trypophobia-inducing insects, skin melting into panflutes, mouths melting into tennis balls.</p><img src="http://graceavery.com/deepdreams/slugdog.png"></article>]]></description>
+            <link>http://blog.thehackerati.com/post/128746247346/deepdreaming-without-the-slugdogs</link>
+            <guid isPermaLink="false">badb30df-a6c6-4e33-8495-9b92b582ad63</guid>
+            <pubDate>Thu, 10 Sep 2015 08:53:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#psychedelic]]></title>
             <description><![CDATA[<article><h1>#psychedelic</h1><p>seene.co</p><img src="http://d2qkfprjkxv2r7.cloudfront.net/s1024-r90/uploads/scene/poster/f651df13-aa48-4f12-b6d2-c4b697b8d853/poster.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/128187079886/stylenet-kyle-mcdonald-tech-art-talent-kyle</link>
             <guid isPermaLink="false">03cbfa41-16ee-4983-a477-d0b7218a5a61</guid>
             <pubDate>Sat, 05 Sep 2015 14:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If There Was A Turing Test For Music Artificial Intelligence, 'Kulitta' Might Pass It]]></title>
-            <description><![CDATA[<article><h1>If There Was A Turing Test For Music Artificial Intelligence, 'Kulitta' Might Pass It</h1><p>A key concept in the world of artificial intelligence is the Turing Test - the idea that a computer exhibits intelligence when a natural language text discussion with it becomes indistinguishable from a text discussion with a human.</p><img src="http://i1.wp.com/www.synthtopia.com/wp-content/uploads/2015/08/ex-machina-e1440595618578.jpeg?resize=900%2C468"></article>]]></description>
-            <link>http://www.synthtopia.com/content/2015/08/26/if-there-was-a-turing-test-for-music-artificial-intelligence-kulitta-might-pass-it/</link>
-            <guid isPermaLink="false">c60f5064-03dc-40fc-a995-23797cfc12e8</guid>
-            <pubDate>Thu, 03 Sep 2015 03:13:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
