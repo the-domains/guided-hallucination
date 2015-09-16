@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Sep 2015 08:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2015 11:25:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pouff - Grocery Trip]]></title>
+            <description><![CDATA[<article><h1>Pouff - Grocery Trip</h1><p>Uploaded by Pouff on 2015-09-15.</p><img src="https://i.ytimg.com/vi/DgPaCWJL7XI/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DgPaCWJL7XI&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">1acbc930-8f31-4ccd-b399-6ef4a112a2d2</guid>
+            <pubDate>Wed, 16 Sep 2015 11:25:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deepdreaming without the Slugdogs]]></title>
             <description><![CDATA[<article><h1>Deepdreaming without the Slugdogs</h1><p>In our deepnightmares, we&rsquo;ve seen monstrous slugdogs, shoggoths of endless eyes, creatures beyond all reckoning. Wherever we look, a dog&rsquo;s face stares back at us, with their cohort of unflinching finches, all beaks and eyes. We try to escape into different layers, but we are still confronted with monsters of lizards, trypophobia-inducing insects, skin melting into panflutes, mouths melting into tennis balls.</p><img src="http://graceavery.com/deepdreams/slugdog.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/DeepForger/status/639481611294232576</link>
             <guid isPermaLink="false">ae2b2980-4e8a-4c7d-b7d2-52b20f035c74</guid>
             <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[StyleNet - Kyle McDonaldTech Art talent...]]></title>
-            <description><![CDATA[<article><h1>StyleNet - Kyle McDonaldTech Art talent...</h1><p>StyleNet - Kyle McDonaldTech Art talent Kyle McDonald has been exploring and experimenting with current methods available for applying neural network analysis on paintings applied to photographic images.On his Twitter feed, he has posted a couple of animated examples (seen above), including a New York skyline in the style of Van Gogh's Starry Night, and Walking Through a Cubist Landscape.He has also put together a post on Medium exploring the current methods available - it is technical but if you wish to find out more on the subject it is worthwhile.</p><img src="http://31.media.tumblr.com/b6d0dd1058247ac26016994c9bf2a3d8/tumblr_nu1z25X0el1qav3uso1_500.gif"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/128187079886/stylenet-kyle-mcdonald-tech-art-talent-kyle</link>
-            <guid isPermaLink="false">03cbfa41-16ee-4983-a477-d0b7218a5a61</guid>
-            <pubDate>Sat, 05 Sep 2015 14:42:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
