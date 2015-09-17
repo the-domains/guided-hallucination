@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 11:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2015 20:20:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why is a Raven Like a Writing Desk?Anima...]]></title>
+            <description><![CDATA[<article><h1>Why is a Raven Like a Writing Desk?Anima...</h1><p>Why is a Raven Like a Writing Desk?Animation experiment from Gene Kogan applies the neural net Stylenet technique to a scene from Disney's 'Alice In Wonderland' using 17 Fine Art examples:A reanimation of the tea party &amp; riddle scene from Alice in Wonderland (1951), restyled by 17 paintings.Created with code by Justin Johnson, based on the paper on style transfer from Gatys, Ecker, and Bethge at the University of Tübingen in Sep 2015.Paintings by: Pablo Picasso, Georgia O'Keeffe, S.H.</p><img src="http://33.media.tumblr.com/ceade370f8ab885bb9be1489021385bd/tumblr_numwq2pBn41qav3uso1_540.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/129024388856/why-is-a-raven-like-a-writing-desk-animation</link>
+            <guid isPermaLink="false">0d930d6a-88c1-4f7c-a099-e7b42aa2a1a8</guid>
+            <pubDate>Thu, 17 Sep 2015 20:19:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pouff - Grocery Trip]]></title>
             <description><![CDATA[<article><h1>Pouff - Grocery Trip</h1><p>Uploaded by Pouff on 2015-09-15.</p><img src="https://i.ytimg.com/vi/DgPaCWJL7XI/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img alt="NeuralNet &num;NeuralArt&comma; suggestion from &commat;echophons avec style by Paul Klee&period;" src="https://pbs.twimg.com/media/COGh-QoWUAARByz.jpg:large">]]></description>
             <link>https://twitter.com/DeepForger/status/639970716037853184</link>
             <guid isPermaLink="false">7a46041e-2b66-4ab6-bb64-b1f7f9cead48</guid>
-            <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="StyleNet &num;NeuralArt&comma; comissioned by &commat;bnm12hw&period;" src="https://pbs.twimg.com/media/CN_lImQUsAEsywk.png:large">]]></description>
-            <link>https://twitter.com/DeepForger/status/639481611294232576</link>
-            <guid isPermaLink="false">ae2b2980-4e8a-4c7d-b7d2-52b20f035c74</guid>
             <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
         </item>
     </channel>
