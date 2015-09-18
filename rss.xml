@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Sep 2015 20:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2015 14:20:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deep Style: Inferring the Unknown to Predict the Future of Fashion | Stitch Fix Technology - Multithreaded]]></title>
+            <description><![CDATA[<article><h1>Deep Style: Inferring the Unknown to Predict the Future of Fashion | Stitch Fix Technology - Multithreaded</h1><p>Here at Stitch Fix, we are always looking for new ways to improve our client experience. On the algorithms side that means helping our stylists to make bett...</p><img src="http://multithreaded.stitchfix.com/assets/images/blog/autoencoder_image_set/0.jpg"></article>]]></description>
+            <link>http://multithreaded.stitchfix.com/blog/2015/09/17/deep-style/</link>
+            <guid isPermaLink="false">61b0d02f-9815-4bd4-8af6-cf8d6fe6a959</guid>
+            <pubDate>Fri, 18 Sep 2015 14:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is a Raven Like a Writing Desk?Anima...]]></title>
             <description><![CDATA[<article><h1>Why is a Raven Like a Writing Desk?Anima...</h1><p>Why is a Raven Like a Writing Desk?Animation experiment from Gene Kogan applies the neural net Stylenet technique to a scene from Disney's 'Alice In Wonderland' using 17 Fine Art examples:A reanimation of the tea party &amp; riddle scene from Alice in Wonderland (1951), restyled by 17 paintings.Created with code by Justin Johnson, based on the paper on style transfer from Gatys, Ecker, and Bethge at the University of Tübingen in Sep 2015.Paintings by: Pablo Picasso, Georgia O'Keeffe, S.H.</p><img src="http://33.media.tumblr.com/ceade370f8ab885bb9be1489021385bd/tumblr_numwq2pBn41qav3uso1_540.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img alt="StyleNet &num;NeuralArt&comma; inspiration from &commat;jeratt and style by Raphael&period;" src="https://pbs.twimg.com/media/CODJ8KXWoAAVGTP.jpg:large">]]></description>
             <link>https://twitter.com/DeepForger/status/639733185505591296</link>
             <guid isPermaLink="false">d6fddcde-0831-4058-83a8-110b03aab390</guid>
-            <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="NeuralNet &num;NeuralArt&comma; suggestion from &commat;echophons avec style by Paul Klee&period;" src="https://pbs.twimg.com/media/COGh-QoWUAARByz.jpg:large">]]></description>
-            <link>https://twitter.com/DeepForger/status/639970716037853184</link>
-            <guid isPermaLink="false">7a46041e-2b66-4ab6-bb64-b1f7f9cead48</guid>
             <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
         </item>
     </channel>
