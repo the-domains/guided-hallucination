@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Sep 2015 14:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2015 11:02:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="posted a ton of &num;stylenet studies throughout western art history&comma; still learning what works http&colon;&sol;&sol;kylemcdonald&period;net&sol;stylestudies&sol;" src="https://pbs.twimg.com/media/COaAqxYUAAAMSF9.png:large">]]></description>
+            <link>https://twitter.com/kcimc/status/641341470901846016</link>
+            <guid isPermaLink="false">20a2e852-a7f4-45fe-bdca-5d663fb84462</guid>
+            <pubDate>Mon, 21 Sep 2015 11:02:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deep Style: Inferring the Unknown to Predict the Future of Fashion | Stitch Fix Technology - Multithreaded]]></title>
             <description><![CDATA[<article><h1>Deep Style: Inferring the Unknown to Predict the Future of Fashion | Stitch Fix Technology - Multithreaded</h1><p>Here at Stitch Fix, we are always looking for new ways to improve our client experience. On the algorithms side that means helping our stylists to make bett...</p><img src="http://multithreaded.stitchfix.com/assets/images/blog/autoencoder_image_set/0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img alt="StyleNet &num;NeuralArt&comma; requested by &commat;adurdin" src="https://pbs.twimg.com/media/CN-2C3kWUAAsOLo.png:large">]]></description>
             <link>https://twitter.com/DeepForger/status/639429835580907521</link>
             <guid isPermaLink="false">f284d529-4883-4ade-889e-71565e188ed0</guid>
-            <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="StyleNet &num;NeuralArt&comma; inspiration from &commat;jeratt and style by Raphael&period;" src="https://pbs.twimg.com/media/CODJ8KXWoAAVGTP.jpg:large">]]></description>
-            <link>https://twitter.com/DeepForger/status/639733185505591296</link>
-            <guid isPermaLink="false">d6fddcde-0831-4058-83a8-110b03aab390</guid>
             <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
         </item>
     </channel>
