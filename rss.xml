@@ -5,8 +5,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Sep 2015 11:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2015 14:10:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Machine Learning & Deep Neural Networks Explained - #NatAndLo Ep 7]]></title>
+            <description><![CDATA[<article><h1>Machine Learning & Deep Neural Networks Explained - #NatAndLo Ep 7</h1><p>SUBSCRIBE: https://goo.gl/CEsJyN | TWEET: http://ctt.ec/6jtD1 | #NatandLo What do voice search, machine translation, and ATMs have in common? Learn the answer to that question and more in this week's episode. *We're doing an AMA with Greg and Chris on Friday, September 25th at 1 PM PDT / 4 PM EST so bring your questions!</p><img src="https://i.ytimg.com/vi/bHvf7Tagt18/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=bHvf7Tagt18</link>
+            <guid isPermaLink="false">52a8531f-9d47-4ef9-824a-41141b14e2cc</guid>
+            <pubDate>Thu, 24 Sep 2015 14:10:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="posted a ton of &num;stylenet studies throughout western art history&comma; still learning what works http&colon;&sol;&sol;kylemcdonald&period;net&sol;stylestudies&sol;" src="https://pbs.twimg.com/media/COaAqxYUAAAMSF9.png:large">]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img alt="NeuralArt &num;ProceduralArt&comma; requested by &commat;VirtualClint&period;" src="https://pbs.twimg.com/media/COG2iSWVAAAaWZP.png:large">]]></description>
             <link>https://twitter.com/DeepForger/status/639993325517447172</link>
             <guid isPermaLink="false">20215fbe-5a43-478b-9926-99fe3ec5b2ab</guid>
-            <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="StyleNet &num;NeuralArt&comma; requested by &commat;adurdin" src="https://pbs.twimg.com/media/CN-2C3kWUAAsOLo.png:large">]]></description>
-            <link>https://twitter.com/DeepForger/status/639429835580907521</link>
-            <guid isPermaLink="false">f284d529-4883-4ade-889e-71565e188ed0</guid>
             <pubDate>Sat, 05 Sep 2015 14:58:47 GMT</pubDate>
         </item>
     </channel>
