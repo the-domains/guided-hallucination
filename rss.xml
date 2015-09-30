@@ -5,11 +5,18 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Sep 2015 00:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2015 19:27:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.kinja-img.com/gawker-media/image/upload/s--a4V1RIhy--/1452282773515990157.jpg">]]></description>
+            <link>https://thegrid.ai/guided-hallucination/116e1d34-220f-4136-b290-2032a35b7b64/index.html</link>
+            <guid isPermaLink="false">116e1d34-220f-4136-b290-2032a35b7b64</guid>
+            <pubDate>Wed, 30 Sep 2015 19:26:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Drawing with GoogLeNet]]></title>
-            <description><![CDATA[<article><h1>Drawing with GoogLeNet</h1><p>In my previous post, I showed how you can use deep neural networks to generate image examples of the classes it's been trained to classify. Since we've already started using deep neural networks in ways they were never intended to be used, let's abuse them some more.</p><img src="http://auduno.github.io/deepdraw/images/sine_alps_crop_thumb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Drawing with GoogLeNet</h1><p>In my previous post, I showed how you can use deep neural networks to generate image examples of the classes it's been trained to classify. Since we've already started using deep neural networks in ways they were never intended to be used, let's abuse them some more.</p><img src="http://auduno.github.io/deepdraw/images/sine_alps_crop.jpg"></article>]]></description>
             <link>http://auduno.com/post/125837418083/drawing-with-googlenet</link>
             <guid isPermaLink="false">bad2f253-f290-4f7c-bd73-0f0706c24999</guid>
             <pubDate>Sat, 26 Sep 2015 00:34:50 GMT</pubDate>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/DeepForger/status/640312475859218432/photo/1</link>
             <guid isPermaLink="false">72a01641-d2dd-47a9-b916-1246123b2224</guid>
             <pubDate>Sun, 06 Sep 2015 04:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finding Gogh]]></title>
-            <description><![CDATA[<article><h1>Finding Gogh</h1><p>ah, un-goghed was techart trolling :-)</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*popTowt4nxm58SFoxPVGpA.png"></article>]]></description>
-            <link>https://medium.com/@kcimc/finding-gogh-76ff90cbd408</link>
-            <guid isPermaLink="false">4dfa4bc3-982a-4d61-82ca-976a680c4b7a</guid>
-            <pubDate>Sun, 06 Sep 2015 03:55:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
