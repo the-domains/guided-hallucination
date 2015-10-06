@@ -43,9 +43,9 @@ description: 'style interpolation of pablo picasso through his blue, african, an
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/genekogan/status/645983774845575169'
-datePublished: '2015-10-06T04:05:04.121Z'
+datePublished: '2015-10-06T16:31:33.325Z'
 title: ''
-dateModified: '2015-10-05T18:37:38.894Z'
+dateModified: '2015-10-06T04:05:04.121Z'
 sourcePath: _posts/2015-10-06-style-interpolation-of-pablo-picasso-through-his-blue-afric.md
 published: true
 _type: Comment
