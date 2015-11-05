@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[guided hallucination]]></title>
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 05:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 18:46:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[deepart.io - vangoghify your selfie]]></title>
+            <description><![CDATA[<article><h1>deepart.io - vangoghify your selfie</h1><img src="https://deepart-io.s3.amazonaws.com/results/beVCLQ0-zAZY_450x450_2mRPEZPf.png"></article>]]></description>
+            <link>https://deepart.io/</link>
+            <guid isPermaLink="false">0593ef9b-52d9-428a-b8fd-4865add67c75</guid>
+            <pubDate>Thu, 05 Nov 2015 18:46:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mobile Cyclorama]]></title>
             <description><![CDATA[<article><h1>Mobile Cyclorama</h1><p>A project that continues the legacy of panoramic painting. This mobile web app explores poetic atmospheres of remote sites and pictorial alternative realities depicting the artist personal microcosm. Such pictorial space can only be discovered with the gesture and action of the viewer by moving the device and framing..</p><img src="http://moya.do/metapanoramas/img/autor.jpg"></article>]]></description>
@@ -69,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=DgPaCWJL7XI&amp;feature=youtu.be</link>
             <guid isPermaLink="false">1acbc930-8f31-4ccd-b399-6ef4a112a2d2</guid>
             <pubDate>Wed, 16 Sep 2015 11:25:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deepdreaming without the Slugdogs]]></title>
-            <description><![CDATA[<article><h1>Deepdreaming without the Slugdogs</h1><p>In our deepnightmares, we&rsquo;ve seen monstrous slugdogs, shoggoths of endless eyes, creatures beyond all reckoning. Wherever we look, a dog&rsquo;s face stares back at us, with their cohort of unflinching finches, all beaks and eyes. We try to escape into different layers, but we are still confronted with monsters of lizards, trypophobia-inducing insects, skin melting into panflutes, mouths melting into tennis balls.</p><img src="http://graceavery.com/deepdreams/slugdog.png"></article>]]></description>
-            <link>http://blog.thehackerati.com/post/128746247346/deepdreaming-without-the-slugdogs</link>
-            <guid isPermaLink="false">badb30df-a6c6-4e33-8495-9b92b582ad63</guid>
-            <pubDate>Thu, 10 Sep 2015 08:53:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
