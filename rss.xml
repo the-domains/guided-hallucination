@@ -4,8 +4,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 13:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Nov 2015 13:49:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unsupervised Representation Learning wit...]]></title>
+            <description><![CDATA[<article><h1>Unsupervised Representation Learning wit...</h1><p>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial NetworksComputer Science academic paper by Alec Radford, Luke Metz, and Soumith Chintala explores neural network method of generating new forms from huge image datasets, particularly human faces and interior rooms:In recent years, supervised learning with convolutional networks (CNNs) has seen huge adoption in computer vision applications.</p><img src="http://45.media.tumblr.com/d605efc8bd37bffa9f2e17a4d0508fec/tumblr_nye728S31m1qav3uso1_400.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/133956785731/unsupervised-representation-learning-with-deep</link>
+            <guid isPermaLink="false">383a6abe-c336-4edc-90c4-86801f7a392d</guid>
+            <pubDate>Sun, 29 Nov 2015 13:48:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[woodrush/neural-art-tf]]></title>
             <description><![CDATA[<article><h1>woodrush/neural-art-tf</h1><p>neural-art-tf - "A neural algorithm of Artistic style" in tensorflow</p><img src="https://avatars1.githubusercontent.com/u/4700588?v=3&s=400"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/guided-hallucination/116e1d34-220f-4136-b290-2032a35b7b64/index.html</link>
             <guid isPermaLink="false">116e1d34-220f-4136-b290-2032a35b7b64</guid>
             <pubDate>Wed, 30 Sep 2015 19:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drawing with GoogLeNet]]></title>
-            <description><![CDATA[<article><h1>Drawing with GoogLeNet</h1><p>In my previous post, I showed how you can use deep neural networks to generate image examples of the classes it's been trained to classify. Since we've already started using deep neural networks in ways they were never intended to be used, let's abuse them some more.</p><img src="http://auduno.github.io/deepdraw/images/sine_alps_crop.jpg"></article>]]></description>
-            <link>http://auduno.com/post/125837418083/drawing-with-googlenet</link>
-            <guid isPermaLink="false">bad2f253-f290-4f7c-bd73-0f0706c24999</guid>
-            <pubDate>Sat, 26 Sep 2015 00:34:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
