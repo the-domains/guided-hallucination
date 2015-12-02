@@ -4,8 +4,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 18:39:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 18:48:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="My god&period; Afghan girl processed through &commat;HillaryClinton is pretty nice too&period;" src="https://pbs.twimg.com/media/CU5lw2pWsAUnYqq.jpg:large">]]></description>
+            <link>https://twitter.com/alan_butler/status/670623806126428161</link>
+            <guid isPermaLink="false">e916a596-e117-4a9b-9a5b-65aad06a4332</guid>
+            <pubDate>Wed, 02 Dec 2015 18:48:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Deep Manifold Traversal&colon; Changing Labels with Convolutional Features http&colon;&sol;&sol;arxiv&period;org&sol;abs&sol;1511&period;06421 &lsqb;2015&rsqb;" src="https://pbs.twimg.com/media/CUhYaPrWoAALTdC.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>http://moya.do/metapanoramas/</link>
             <guid isPermaLink="false">15b18495-e91e-4bd8-b7d8-7588f764067f</guid>
             <pubDate>Fri, 09 Oct 2015 05:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>style interpolation of pablo picasso through his blue, african, and cubist periods. #stylenet pic.twitter.com/gFcmGS1ttZ</p>]]></description>
-            <link>https://twitter.com/genekogan/status/645983774845575169</link>
-            <guid isPermaLink="false">f772fbe1-fc13-44b4-9572-4e2062816909</guid>
-            <pubDate>Tue, 06 Oct 2015 16:31:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
