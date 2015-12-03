@@ -1,19 +1,4 @@
-name: guided hallucination
-favicon: null
-layout_spectrum: 0.78857
-typography_spectrum: 0.0686
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#030303'
@@ -22,10 +7,14 @@ color:
     - '#8c4b8c'
     - '#ff8bd9'
   brandStrength: 0
-  lightness: 0.25
-  saturation: 0.5
+  lightness: 0.527052
   rhythmicContrast: 0.5
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.78857
+name: guided hallucination
+opengraph: {}
 purpose:
   - name: engagement
     item: ad31ef10-e553-45a8-a720-a0871504ea81
-    url: null
+typography_spectrum: 0.0686
