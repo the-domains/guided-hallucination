@@ -4,8 +4,22 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 18:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 06:53:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenAI]]></title>
+            <description><![CDATA[<article><h1>OpenAI</h1><p>OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return. Since our research is free from financial obligations, we can better focus on a positive human impact.</p><img src="https://openai.com/images/social.jpg"></article>]]></description>
+            <link>https://openai.com/blog/introducing-openai/</link>
+            <guid isPermaLink="false">7bbff162-cdd7-4567-a502-90d8b51a9a9d</guid>
+            <pubDate>Sat, 12 Dec 2015 06:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Deep Dreams: How Google Made Its Computers Go Crazy - Backchannel]]></title>
+            <description><![CDATA[<article><h1>Inside Deep Dreams: How Google Made Its Computers Go Crazy - Backchannel</h1><p>Inside Deep Dreams: How Google Made Its Computers Go Crazy - Backchannel - Medium</p></article>]]></description>
+            <link>https://medium.com/backchannel/inside-deep-dreams-how-google-made-its-computers-go-crazy-83b9d24e66df#.x0wj9babw</link>
+            <guid isPermaLink="false">801c4dac-079c-48df-8488-f0d12c92486a</guid>
+            <pubDate>Sat, 12 Dec 2015 06:52:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="My god&period; Afghan girl processed through &commat;HillaryClinton is pretty nice too&period;" src="https://pbs.twimg.com/media/CU5lw2pWsAUnYqq.jpg:large">]]></description>
@@ -29,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[woodrush/neural-art-tf]]></title>
-            <description><![CDATA[<article><h1>woodrush/neural-art-tf</h1><p>neural-art-tf - "A neural algorithm of Artistic style" in tensorflow</p><img src="https://avatars1.githubusercontent.com/u/4700588?v=3&s=400"></article>]]></description>
+            <description><![CDATA[<article><h1>woodrush/neural-art-tf</h1><p>neural-art-tf - "A neural algorithm of Artistic style" in tensorflow</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd77f51d9eb69f77ce23c8e23c7d1c328d388adb.jpg"></article>]]></description>
             <link>https://github.com/woodrush/neural-art-tf</link>
             <guid isPermaLink="false">f4933a84-1c27-4177-bf3b-ff00248f4164</guid>
             <pubDate>Wed, 25 Nov 2015 13:56:49 GMT</pubDate>
@@ -43,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[Deepdream: Avoiding Kitsch]]></title>
-            <description><![CDATA[<article><h1>Deepdream: Avoiding Kitsch</h1><p>Deepdream: Avoiding Kitsch Yes yes, #deepdream. But as Memo Atkin and others point out, this is going to kitsch as rapidly as Walter Keane and lolcats unless we can find a way to stop the massive firehose of repetitive #puppyslug that has been opened by a few websites letting us upload selfies.</p><img src="http://cdn.shopify.com/s/files/1/0456/6165/files/arthistory-pre-phodis.jpeg?5737131683928417706"></article>]]></description>
+            <description><![CDATA[<article><h1>Deepdream: Avoiding Kitsch</h1><p>Deepdream: Avoiding Kitsch Yes yes, #deepdream. But as Memo Atkin and others point out, this is going to kitsch as rapidly as Walter Keane and lolcats unless we can find a way to stop the massive firehose of repetitive #puppyslug that has been opened by a few websites letting us upload selfies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85681e90f6410e2fffac73953594ef6bb8ee68bf.jpg"></article>]]></description>
             <link>http://jtnimoy.com/blogs/projects/50616707-deepdream-avoiding-kitsch</link>
             <guid isPermaLink="false">4a645730-35c9-47b4-912f-75d08ba7b0e1</guid>
             <pubDate>Fri, 20 Nov 2015 12:21:01 GMT</pubDate>
@@ -57,24 +71,10 @@
         </item>
         <item>
             <title><![CDATA[cap2im]]></title>
-            <description><![CDATA[<article><h1>cap2im</h1><p>a group of happy elephants in the dry grass field .</p><img src="http://www.cs.toronto.edu/~emansim/cap2im-images/a-yellow-school-bus-parked-in-a-parking-lot-sharp.png"></article>]]></description>
+            <description><![CDATA[<article><h1>cap2im</h1><p>a group of happy elephants in the dry grass field .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0161e5149d1f3dafb58206c6651b395550b23be5.png"></article>]]></description>
             <link>http://www.cs.toronto.edu/~emansim/cap2im.html</link>
             <guid isPermaLink="false">05a03ff1-4365-4d98-98d0-6e1244bb57f4</guid>
             <pubDate>Wed, 11 Nov 2015 16:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[deepart.io - vangoghify your selfie]]></title>
-            <description><![CDATA[<article><h1>deepart.io - vangoghify your selfie</h1><img src="https://deepart-io.s3.amazonaws.com/results/beVCLQ0-zAZY_450x450_2mRPEZPf.png"></article>]]></description>
-            <link>https://deepart.io/</link>
-            <guid isPermaLink="false">0593ef9b-52d9-428a-b8fd-4865add67c75</guid>
-            <pubDate>Thu, 05 Nov 2015 18:46:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mobile Cyclorama]]></title>
-            <description><![CDATA[<article><h1>Mobile Cyclorama</h1><p>A project that continues the legacy of panoramic painting. This mobile web app explores poetic atmospheres of remote sites and pictorial alternative realities depicting the artist personal microcosm. Such pictorial space can only be discovered with the gesture and action of the viewer by moving the device and framing..</p><img src="http://moya.do/metapanoramas/img/autor.jpg"></article>]]></description>
-            <link>http://moya.do/metapanoramas/</link>
-            <guid isPermaLink="false">15b18495-e91e-4bd8-b7d8-7588f764067f</guid>
-            <pubDate>Fri, 09 Oct 2015 05:02:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
