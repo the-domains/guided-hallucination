@@ -4,11 +4,18 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 20:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 20:49:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Experiments with style transfer [Continu...]]></title>
+            <description><![CDATA[<article><h1>Experiments with style transfer [Continu...</h1><p>Experiments with style transfer [Continued]Coder and artist Mike Tyka experiments further with the Stylenet method of translating visual style from one image to the next, including applying an infinite zoom effect and visualizing certain parts of the neural net interpretation:Style transfer zoom movie.Hey this worked really well for DeepDream - why not try it for style transfer?Images from top-level activations onlyThe paper covers this but I thought it would be fun to try regenerating an image by using only the highest layer content activations with no style.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65a7d1e2a017c05dc713d8e3965bc0af8c28f4d9.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/137043316091/experiments-with-style-transfer-continued-coder</link>
+            <guid isPermaLink="false">5d923aad-bb2a-450d-a1de-bbd9f9d372c3</guid>
+            <pubDate>Thu, 14 Jan 2016 20:49:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Recurrent Net Dreams Up Fake Chinese Characters in Vector Format with TensorFlow]]></title>
-            <description><![CDATA[<article><h1>Recurrent Net Dreams Up Fake Chinese Characters in Vector Format with TensorFlow</h1><p>Fake Kanji characters generated from a LSTM-Mixture Density Network in SVG Format using sketch-rnn. Code available on github. Note: Kanji (漢字) is the Japanese pronunciation for Chinese Characters, and I use these two terms interchangeably depending on the context. This is the third post in a series of blog posts logging my experiments with with TensorFlow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26ca43877309c67ff0d18ae2bea19d3caaa97c27.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Recurrent Net Dreams Up Fake Chinese Characters in Vector Format with TensorFlow</h1><p>Fake Kanji characters generated from a LSTM-Mixture Density Network in SVG Format using sketch-rnn. Code available on github. Note: Kanji (漢字) is the Japanese pronunciation for Chinese Characters, and I use these two terms interchangeably depending on the context. This is the third post in a series of blog posts logging my experiments with with TensorFlow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/378f8c80f7215de13969bf9cc7e17e41487b8176.jpg"></article>]]></description>
             <link>http://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/</link>
             <guid isPermaLink="false">3397ab6c-299e-46b8-bbd3-7b8ed2b13631</guid>
             <pubDate>Mon, 28 Dec 2015 20:03:17 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/133738393596/secret-society-of-soul-painters-video-by-weather</link>
             <guid isPermaLink="false">f9320143-af53-4e72-87e0-909329172a54</guid>
             <pubDate>Wed, 25 Nov 2015 13:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deepdream: Avoiding Kitsch]]></title>
-            <description><![CDATA[<article><h1>Deepdream: Avoiding Kitsch</h1><p>Deepdream: Avoiding Kitsch Yes yes, #deepdream. But as Memo Atkin and others point out, this is going to kitsch as rapidly as Walter Keane and lolcats unless we can find a way to stop the massive firehose of repetitive #puppyslug that has been opened by a few websites letting us upload selfies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85681e90f6410e2fffac73953594ef6bb8ee68bf.jpg"></article>]]></description>
-            <link>http://jtnimoy.com/blogs/projects/50616707-deepdream-avoiding-kitsch</link>
-            <guid isPermaLink="false">4a645730-35c9-47b4-912f-75d08ba7b0e1</guid>
-            <pubDate>Fri, 20 Nov 2015 12:21:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
