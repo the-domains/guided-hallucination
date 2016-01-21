@@ -4,11 +4,18 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 01:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 17:16:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Picasso painting on glass through his Blue, African, and Cubist periods]]></title>
+            <description><![CDATA[<article><h1>Picasso painting on glass through his Blue, African, and Cubist periods</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c66045329ca8ad8de6705f6cfd01c144b3e8a4ad.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/genekogan/21772440906/in/dateposted-public/lightbox/</link>
+            <guid isPermaLink="false">ac7c0033-88be-462a-9e94-0974d4b08647</guid>
+            <pubDate>Thu, 21 Jan 2016 17:15:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[tree_hokusai2]]></title>
-            <description><![CDATA[<article><h1>tree_hokusai2</h1><img src="https://farm2.staticflickr.com/1589/23836655913_fa9fa123d7_b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>tree_hokusai2</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11edc9e9f331a6bd8646ad3945e2f8dcfd88b9d1.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/genekogan/23836655913/in/dateposted-public/lightbox/</link>
             <guid isPermaLink="false">c2f01d32-f663-4b3f-9ec3-57eb36804985</guid>
             <pubDate>Tue, 19 Jan 2016 01:57:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/133956785731/unsupervised-representation-learning-with-deep</link>
             <guid isPermaLink="false">383a6abe-c336-4edc-90c4-86801f7a392d</guid>
             <pubDate>Sun, 29 Nov 2015 13:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[woodrush/neural-art-tf]]></title>
-            <description><![CDATA[<article><h1>woodrush/neural-art-tf</h1><p>neural-art-tf - "A neural algorithm of Artistic style" in tensorflow</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd77f51d9eb69f77ce23c8e23c7d1c328d388adb.jpg"></article>]]></description>
-            <link>https://github.com/woodrush/neural-art-tf</link>
-            <guid isPermaLink="false">f4933a84-1c27-4177-bf3b-ff00248f4164</guid>
-            <pubDate>Wed, 25 Nov 2015 13:56:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
