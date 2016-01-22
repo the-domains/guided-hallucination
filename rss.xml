@@ -4,11 +4,18 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 17:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 17:37:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Listen to Darwintunes: random music evolving its way to beauty]]></title>
+            <description><![CDATA[<article><h1>Listen to Darwintunes: random music evolving its way to beauty</h1><p>Darwintunes are short musical loops that mutate and evolve as listeners vote: "the higher rated loops get to have sex and have baby loops which form the next generation, to be rated, have sex, have babies and so on." The examples given start out as warbly bursts of random noise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af006b76d4efaf2a118e6aebdd0efbe7daa466aa.jpg"></article>]]></description>
+            <link>http://boingboing.net/2016/01/22/listen-to-darwintunes-random.html</link>
+            <guid isPermaLink="false">19e18eb4-8fb5-42a6-b899-1cbbd7b97aa2</guid>
+            <pubDate>Fri, 22 Jan 2016 17:37:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Picasso painting on glass through his Blue, African, and Cubist periods]]></title>
-            <description><![CDATA[<article><h1>Picasso painting on glass through his Blue, African, and Cubist periods</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c66045329ca8ad8de6705f6cfd01c144b3e8a4ad.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Picasso painting on glass through his Blue, African, and Cubist periods</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d3c5947d4fea35d1f753fe6b3629081f937aec9.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/genekogan/21772440906/in/dateposted-public/lightbox/</link>
             <guid isPermaLink="false">ac7c0033-88be-462a-9e94-0974d4b08647</guid>
             <pubDate>Thu, 21 Jan 2016 17:15:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/ArxivBot/status/668881753700962304</link>
             <guid isPermaLink="false">aa604df4-4087-42ce-84ab-e18e1b385dfd</guid>
             <pubDate>Wed, 02 Dec 2015 18:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unsupervised Representation Learning wit...]]></title>
-            <description><![CDATA[<article><h1>Unsupervised Representation Learning wit...</h1><p>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial NetworksComputer Science academic paper by Alec Radford, Luke Metz, and Soumith Chintala explores neural network method of generating new forms from huge image datasets, particularly human faces and interior rooms:In recent years, supervised learning with convolutional networks (CNNs) has seen huge adoption in computer vision applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60b94790f22ef8b03dff4028819db847bd83fd89.gif"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/133956785731/unsupervised-representation-learning-with-deep</link>
-            <guid isPermaLink="false">383a6abe-c336-4edc-90c4-86801f7a392d</guid>
-            <pubDate>Sun, 29 Nov 2015 13:48:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
