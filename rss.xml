@@ -4,11 +4,18 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 17:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 15:19:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="This is the paper I started from&colon; http&colon;&sol;&sol;arxiv&period;org&sol;abs&sol;1601&period;04589 I refer to the whole class of algorithm as &num;NeuralPatches&period;" src="https://pbs.twimg.com/media/CaLDrCZWkAAgD0v.png:large">]]></description>
+            <link>https://twitter.com/alexjc/status/694332438118567936</link>
+            <guid isPermaLink="false">f7784d87-4b83-45be-8f40-870e91896d80</guid>
+            <pubDate>Sat, 06 Feb 2016 15:18:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Listen to Darwintunes: random music evolving its way to beauty]]></title>
-            <description><![CDATA[<article><h1>Listen to Darwintunes: random music evolving its way to beauty</h1><p>Darwintunes are short musical loops that mutate and evolve as listeners vote: "the higher rated loops get to have sex and have baby loops which form the next generation, to be rated, have sex, have babies and so on." The examples given start out as warbly bursts of random noise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af006b76d4efaf2a118e6aebdd0efbe7daa466aa.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Listen to Darwintunes: random music evolving its way to beauty</h1><p>Darwintunes are short musical loops that mutate and evolve as listeners vote: "the higher rated loops get to have sex and have baby loops which form the next generation, to be rated, have sex, have babies and so on." The examples given start out as warbly bursts of random noise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05f42c4b87ef9037d3b24d01a4c149751d2eb30b.jpg"></article>]]></description>
             <link>http://boingboing.net/2016/01/22/listen-to-darwintunes-random.html</link>
             <guid isPermaLink="false">19e18eb4-8fb5-42a6-b899-1cbbd7b97aa2</guid>
             <pubDate>Fri, 22 Jan 2016 17:37:14 GMT</pubDate>
@@ -50,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[OpenAI]]></title>
-            <description><![CDATA[<article><h1>OpenAI</h1><p>OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return. Since our research is free from financial obligations, we can better focus on a positive human impact.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0ce969404b070f83efdb8199ecdce01e1d13def.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>OpenAI</h1><p>OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return. Since our research is free from financial obligations, we can better focus on a positive human impact.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cc1d0fd19c91b86bca83e1e7a73a6ef28f0e5af.jpg"></article>]]></description>
             <link>https://openai.com/blog/introducing-openai/</link>
             <guid isPermaLink="false">7bbff162-cdd7-4567-a502-90d8b51a9a9d</guid>
             <pubDate>Sat, 12 Dec 2015 06:52:24 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/alan_butler/status/670623806126428161</link>
             <guid isPermaLink="false">e916a596-e117-4a9b-9a5b-65aad06a4332</guid>
             <pubDate>Wed, 02 Dec 2015 18:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Deep Manifold Traversal&colon; Changing Labels with Convolutional Features http&colon;&sol;&sol;arxiv&period;org&sol;abs&sol;1511&period;06421 &lsqb;2015&rsqb;" src="https://pbs.twimg.com/media/CUhYaPrWoAALTdC.jpg:large">]]></description>
-            <link>https://twitter.com/ArxivBot/status/668881753700962304</link>
-            <guid isPermaLink="false">aa604df4-4087-42ce-84ab-e18e1b385dfd</guid>
-            <pubDate>Wed, 02 Dec 2015 18:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
