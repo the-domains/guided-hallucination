@@ -4,8 +4,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 15:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 00:52:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Visual Turing Test]]></title>
+            <description><![CDATA[<article><h1>Visual Turing Test</h1><p>Figure out if paintings are made by a human or by a computer.</p><img src="http://turing.deepart.io/t/0.jpg"></article>]]></description>
+            <link>http://turing.deepart.io/</link>
+            <guid isPermaLink="false">360d0c3b-00ee-414f-9f20-9cb4ef4c1e9f</guid>
+            <pubDate>Tue, 09 Feb 2016 00:49:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="This is the paper I started from&colon; http&colon;&sol;&sol;arxiv&period;org&sol;abs&sol;1601&period;04589 I refer to the whole class of algorithm as &num;NeuralPatches&period;" src="https://pbs.twimg.com/media/CaLDrCZWkAAgD0v.png:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://medium.com/backchannel/inside-deep-dreams-how-google-made-its-computers-go-crazy-83b9d24e66df#.x0wj9babw</link>
             <guid isPermaLink="false">801c4dac-079c-48df-8488-f0d12c92486a</guid>
             <pubDate>Sat, 12 Dec 2015 06:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="My god&period; Afghan girl processed through &commat;HillaryClinton is pretty nice too&period;" src="https://pbs.twimg.com/media/CU5lw2pWsAUnYqq.jpg:large">]]></description>
-            <link>https://twitter.com/alan_butler/status/670623806126428161</link>
-            <guid isPermaLink="false">e916a596-e117-4a9b-9a5b-65aad06a4332</guid>
-            <pubDate>Wed, 02 Dec 2015 18:48:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
