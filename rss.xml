@@ -4,11 +4,18 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 00:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 01:06:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Class visualization with bilateral filte...]]></title>
+            <description><![CDATA[<article><h1>Class visualization with bilateral filte...</h1><p>Class visualization with bilateral filtersHigh resolution neural network outputs from DeepDream by Mike Tyka illustrate clearer visuals of machine understanding of subjects:A while ago I played with style visualizations and bilateral filters. The latter have the nice property of filtering out noise but preserving edges. Here are some example class from GoogLeNet (Inception network).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a8bc4f3fea84a212389a39044baf67b129ee2b9.jpg"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/138876466996/class-visualization-with-bilateral-filters-high</link>
+            <guid isPermaLink="false">bdf71528-8455-4580-b36d-102b37085234</guid>
+            <pubDate>Thu, 11 Feb 2016 01:05:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Visual Turing Test]]></title>
-            <description><![CDATA[<article><h1>Visual Turing Test</h1><p>Figure out if paintings are made by a human or by a computer.</p><img src="http://turing.deepart.io/t/0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Visual Turing Test</h1><p>Figure out if paintings are made by a human or by a computer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6664a0b57d2a5f067e60c6b03d2afe9e703592a8.jpg"></article>]]></description>
             <link>http://turing.deepart.io/</link>
             <guid isPermaLink="false">360d0c3b-00ee-414f-9f20-9cb4ef4c1e9f</guid>
             <pubDate>Tue, 09 Feb 2016 00:49:39 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>OpenAI</h1><p>OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return. Since our research is free from financial obligations, we can better focus on a positive human impact.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cc1d0fd19c91b86bca83e1e7a73a6ef28f0e5af.jpg"></article>]]></description>
             <link>https://openai.com/blog/introducing-openai/</link>
             <guid isPermaLink="false">7bbff162-cdd7-4567-a502-90d8b51a9a9d</guid>
-            <pubDate>Sat, 12 Dec 2015 06:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Deep Dreams: How Google Made Its Computers Go Crazy - Backchannel]]></title>
-            <description><![CDATA[<article><h1>Inside Deep Dreams: How Google Made Its Computers Go Crazy - Backchannel</h1><p>Inside Deep Dreams: How Google Made Its Computers Go Crazy - Backchannel - Medium</p></article>]]></description>
-            <link>https://medium.com/backchannel/inside-deep-dreams-how-google-made-its-computers-go-crazy-83b9d24e66df#.x0wj9babw</link>
-            <guid isPermaLink="false">801c4dac-079c-48df-8488-f0d12c92486a</guid>
             <pubDate>Sat, 12 Dec 2015 06:52:24 GMT</pubDate>
         </item>
     </channel>
