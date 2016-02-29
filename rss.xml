@@ -4,8 +4,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 14:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 19:02:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jcjohnson/neural-style]]></title>
+            <description><![CDATA[<article><h1>jcjohnson/neural-style</h1><p>neural-style - Torch implementation of neural style algorithm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8193212e1c12d70b709683e387123d0be77d1abf.jpg"></article>]]></description>
+            <link>https://github.com/jcjohnson/neural-style</link>
+            <guid isPermaLink="false">bb46c6b8-c5bc-48e1-8f86-ad791da1c4cd</guid>
+            <pubDate>Mon, 29 Feb 2016 19:02:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pictures combined using Neural networks]]></title>
             <description><![CDATA[<article><h1>Pictures combined using Neural networks</h1><p>This album is really big! It's going to take us a bit to get your download ready for you. Enter your email and we will notify you when it's ready. Once ready, it will be available for up to 24 hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edabd577ac00d9ad5719455309d00d83ce03b4cc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/137043316091/experiments-with-style-transfer-continued-coder</link>
             <guid isPermaLink="false">5d923aad-bb2a-450d-a1de-bbd9f9d372c3</guid>
             <pubDate>Thu, 14 Jan 2016 20:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recurrent Net Dreams Up Fake Chinese Characters in Vector Format with TensorFlow]]></title>
-            <description><![CDATA[<article><h1>Recurrent Net Dreams Up Fake Chinese Characters in Vector Format with TensorFlow</h1><p>Fake Kanji characters generated from a LSTM-Mixture Density Network in SVG Format using sketch-rnn. Code available on github. Note: Kanji (漢字) is the Japanese pronunciation for Chinese Characters, and I use these two terms interchangeably depending on the context. This is the third post in a series of blog posts logging my experiments with with TensorFlow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/378f8c80f7215de13969bf9cc7e17e41487b8176.jpg"></article>]]></description>
-            <link>http://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/</link>
-            <guid isPermaLink="false">3397ab6c-299e-46b8-bbd3-7b8ed2b13631</guid>
-            <pubDate>Mon, 28 Dec 2015 20:03:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
