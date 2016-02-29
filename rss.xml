@@ -4,8 +4,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 14:25:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pictures combined using Neural networks]]></title>
+            <description><![CDATA[<article><h1>Pictures combined using Neural networks</h1><p>This album is really big! It's going to take us a bit to get your download ready for you. Enter your email and we will notify you when it's ready. Once ready, it will be available for up to 24 hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edabd577ac00d9ad5719455309d00d83ce03b4cc.jpg"></article>]]></description>
+            <link>http://m.imgur.com/gallery/BAJ8j</link>
+            <guid isPermaLink="false">13b3cf08-9db2-4a83-aabb-0ac7633edbf8</guid>
+            <pubDate>Mon, 29 Feb 2016 14:24:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Exploring the Intersection of Art and Machine Intelligence]]></title>
             <description><![CDATA[<article><h1>Exploring the Intersection of Art and Machine Intelligence</h1><p>In June of last year, we published a story about a visualization techniques that helped to understand how neural networks carried out difficult visual classification tasks. In addition to helping us gain a deeper understanding of how NNs worked, these techniques also produced strange, wonderful and oddly compelling images.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1032e404bf324fc9bc14b4baa214f5b6e275e23e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/</link>
             <guid isPermaLink="false">3397ab6c-299e-46b8-bbd3-7b8ed2b13631</guid>
             <pubDate>Mon, 28 Dec 2015 20:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The four painters: A Video Work Created with Deep Learning]]></title>
-            <description><![CDATA[<article><h1>The four painters: A Video Work Created with Deep Learning</h1><p>the four painters from takuya on Vimeo. Deep Learning is newly emerged Machine Learning technology and it has high quality in image recognition. With this technology, the computer now can understand artist's painting style and can imitate it. This means people can see the 'scenes' where the painters were seeing because a work is a scene seen through the painter's eyes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/443131e17254589f1cccc71d5ca92e3d7627426d.jpg"></article>]]></description>
-            <link>http://odoruinu.net/blog/2015/12/23/the-four-painters-a-video-work-created-with-deep-learning/</link>
-            <guid isPermaLink="false">1e9eb611-77b5-44b7-a453-b7ec9e8f8323</guid>
-            <pubDate>Sun, 27 Dec 2015 15:01:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
