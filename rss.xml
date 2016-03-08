@@ -4,8 +4,15 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 13:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 13:27:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[awentzonline/image-analogies]]></title>
+            <description><![CDATA[<article><h1>awentzonline/image-analogies</h1><p>image-analogies - Generate image analogies using neural matching and blending.</p><img src="https://avatars1.githubusercontent.com/u/5231065?v=3&s=400"></article>]]></description>
+            <link>https://github.com/awentzonline/image-analogies</link>
+            <guid isPermaLink="false">1a27e67c-fcf2-4fb8-9916-45b8e9767839</guid>
+            <pubDate>Tue, 08 Mar 2016 13:26:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CreativeAI]]></title>
             <description><![CDATA[<article><h1>CreativeAI</h1><p>On the Democratisation & Escalation of Creativity - Chapter 01</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08d82beadbab578872f763fbce62aca7be54dcfa.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://turing.deepart.io/</link>
             <guid isPermaLink="false">360d0c3b-00ee-414f-9f20-9cb4ef4c1e9f</guid>
             <pubDate>Tue, 09 Feb 2016 00:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="This is the paper I started from&colon; http&colon;&sol;&sol;arxiv&period;org&sol;abs&sol;1601&period;04589 I refer to the whole class of algorithm as &num;NeuralPatches&period;" src="https://pbs.twimg.com/media/CaLDrCZWkAAgD0v.png:large">]]></description>
-            <link>https://twitter.com/alexjc/status/694332438118567936</link>
-            <guid isPermaLink="false">f7784d87-4b83-45be-8f40-870e91896d80</guid>
-            <pubDate>Sat, 06 Feb 2016 15:18:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
