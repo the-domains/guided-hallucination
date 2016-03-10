@@ -4,11 +4,18 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 13:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 16:04:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[alexjc/neural-doodle]]></title>
+            <description><![CDATA[<article><h1>alexjc/neural-doodle</h1><p>neural-doodle - Turn your two-bit doodles into fine artworks with deep neural networks! An implementation of Semantic Style Transfer.</p><img src="https://avatars1.githubusercontent.com/u/445208?v=3&s=400"></article>]]></description>
+            <link>https://github.com/alexjc/neural-doodle</link>
+            <guid isPermaLink="false">d18e4891-f60a-409f-a42a-f050adf18876</guid>
+            <pubDate>Thu, 10 Mar 2016 16:03:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[awentzonline/image-analogies]]></title>
-            <description><![CDATA[<article><h1>awentzonline/image-analogies</h1><p>image-analogies - Generate image analogies using neural matching and blending.</p><img src="https://avatars1.githubusercontent.com/u/5231065?v=3&s=400"></article>]]></description>
+            <description><![CDATA[<article><h1>awentzonline/image-analogies</h1><p>image-analogies - Generate image analogies using neural matching and blending.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69dfb08314ed45f3402439b12f2473ab7e179cd6.jpg"></article>]]></description>
             <link>https://github.com/awentzonline/image-analogies</link>
             <guid isPermaLink="false">1a27e67c-fcf2-4fb8-9916-45b8e9767839</guid>
             <pubDate>Tue, 08 Mar 2016 13:26:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/138876466996/class-visualization-with-bilateral-filters-high</link>
             <guid isPermaLink="false">bdf71528-8455-4580-b36d-102b37085234</guid>
             <pubDate>Thu, 11 Feb 2016 01:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visual Turing Test]]></title>
-            <description><![CDATA[<article><h1>Visual Turing Test</h1><p>Figure out if paintings are made by a human or by a computer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6664a0b57d2a5f067e60c6b03d2afe9e703592a8.jpg"></article>]]></description>
-            <link>http://turing.deepart.io/</link>
-            <guid isPermaLink="false">360d0c3b-00ee-414f-9f20-9cb4ef4c1e9f</guid>
-            <pubDate>Tue, 09 Feb 2016 00:49:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
