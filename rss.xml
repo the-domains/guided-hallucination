@@ -4,11 +4,18 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 16:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 19:36:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[lulu xXXYouTube channel featuring visual...]]></title>
+            <description><![CDATA[<article><h1>lulu xXXYouTube channel featuring visual...</h1><p>lulu xXXYouTube channel featuring visual experiments with CreativeAI and pop culture.First, two artistic style transfer videos, the first featuring a performance from Frank Zappa using various album covers of his work as the source:Next, a Jimi Hendrix performance using artworks by Moebius who occasionally featured Hendrix in his own work:And lastly, using automatic colourization method, a monochrome James Brown performance is presented in colour:You can find out more at the channel here</p><img src="http://67.media.tumblr.com/1191ee89a2d2391703694037eb784652/tumblr_o8zdibbJaA1qav3uso1_500.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/146120725236/lulu-xxx-youtube-channel-featuring-visual</link>
+            <guid isPermaLink="false">21f42b81-c34d-4c8a-ac18-5b6c1757e8e1</guid>
+            <pubDate>Sun, 19 Jun 2016 19:36:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[alexjc/neural-doodle]]></title>
-            <description><![CDATA[<article><h1>alexjc/neural-doodle</h1><p>neural-doodle - Turn your two-bit doodles into fine artworks with deep neural networks! An implementation of Semantic Style Transfer.</p><img src="https://avatars1.githubusercontent.com/u/445208?v=3&s=400"></article>]]></description>
+            <description><![CDATA[<article><h1>alexjc/neural-doodle</h1><p>neural-doodle - Turn your two-bit doodles into fine artworks with deep neural networks! An implementation of Semantic Style Transfer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3951cb30ccbf53d973b05399c441003986bbb048.jpg"></article>]]></description>
             <link>https://github.com/alexjc/neural-doodle</link>
             <guid isPermaLink="false">d18e4891-f60a-409f-a42a-f050adf18876</guid>
             <pubDate>Thu, 10 Mar 2016 16:03:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://googleresearch.blogspot.com/2016/02/exploring-intersection-of-art-and.html</link>
             <guid isPermaLink="false">aece79f2-04ce-42ae-9638-c8a113cdc69c</guid>
             <pubDate>Wed, 24 Feb 2016 15:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Class visualization with bilateral filte...]]></title>
-            <description><![CDATA[<article><h1>Class visualization with bilateral filte...</h1><p>Class visualization with bilateral filtersHigh resolution neural network outputs from DeepDream by Mike Tyka illustrate clearer visuals of machine understanding of subjects:A while ago I played with style visualizations and bilateral filters. The latter have the nice property of filtering out noise but preserving edges. Here are some example class from GoogLeNet (Inception network).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea4bd1df2df4d4422e4b4fe83642b7fd960a83a8.jpg"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/138876466996/class-visualization-with-bilateral-filters-high</link>
-            <guid isPermaLink="false">bdf71528-8455-4580-b36d-102b37085234</guid>
-            <pubDate>Thu, 11 Feb 2016 01:05:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
