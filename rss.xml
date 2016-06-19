@@ -4,11 +4,18 @@
         <description><![CDATA[guided hallucination]]></description>
         <link>https://thegrid.ai/guided-hallucination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 19:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 21:35:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guided-hallucination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Movie written by algorithm turns out to be hilarious and intense]]></title>
+            <description><![CDATA[<article><h1>Movie written by algorithm turns out to be hilarious and intense</h1><p>Ars is excited to be hosting this online debut of Sunspring, a short science fiction film that's not entirely what it seems. It's about three people living in a weird future, possibly on a space station, probably in a love triangle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa7fdf7c8848c3521fc81ef56d321f40af667598.jpg"></article>]]></description>
+            <link>http://arstechnica.com/the-multiverse/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/</link>
+            <guid isPermaLink="false">b49afc85-83d3-47c6-895f-659522a0bdc1</guid>
+            <pubDate>Sun, 19 Jun 2016 21:35:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[lulu xXXYouTube channel featuring visual...]]></title>
-            <description><![CDATA[<article><h1>lulu xXXYouTube channel featuring visual...</h1><p>lulu xXXYouTube channel featuring visual experiments with CreativeAI and pop culture.First, two artistic style transfer videos, the first featuring a performance from Frank Zappa using various album covers of his work as the source:Next, a Jimi Hendrix performance using artworks by Moebius who occasionally featured Hendrix in his own work:And lastly, using automatic colourization method, a monochrome James Brown performance is presented in colour:You can find out more at the channel here</p><img src="http://67.media.tumblr.com/1191ee89a2d2391703694037eb784652/tumblr_o8zdibbJaA1qav3uso1_500.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>lulu xXXYouTube channel featuring visual...</h1><p>lulu xXXYouTube channel featuring visual experiments with CreativeAI and pop culture.First, two artistic style transfer videos, the first featuring a performance from Frank Zappa using various album covers of his work as the source:Next, a Jimi Hendrix performance using artworks by Moebius who occasionally featured Hendrix in his own work:And lastly, using automatic colourization method, a monochrome James Brown performance is presented in colour:You can find out more at the channel here</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1174dd285c2eec14a8a4f0bf70df0f7d/noop.gif?input=http%3A%2F%2F67.media.tumblr.com%2F1191ee89a2d2391703694037eb784652%2Ftumblr_o8zdibbJaA1qav3uso1_500.gif"></article>]]></description>
             <link>http://prostheticknowledge.tumblr.com/post/146120725236/lulu-xxx-youtube-channel-featuring-visual</link>
             <guid isPermaLink="false">21f42b81-c34d-4c8a-ac18-5b6c1757e8e1</guid>
             <pubDate>Sun, 19 Jun 2016 19:36:17 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://m.imgur.com/gallery/BAJ8j</link>
             <guid isPermaLink="false">13b3cf08-9db2-4a83-aabb-0ac7633edbf8</guid>
             <pubDate>Mon, 29 Feb 2016 14:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring the Intersection of Art and Machine Intelligence]]></title>
-            <description><![CDATA[<article><h1>Exploring the Intersection of Art and Machine Intelligence</h1><p>In June of last year, we published a story about a visualization techniques that helped to understand how neural networks carried out difficult visual classification tasks. In addition to helping us gain a deeper understanding of how NNs worked, these techniques also produced strange, wonderful and oddly compelling images.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1032e404bf324fc9bc14b4baa214f5b6e275e23e.jpg"></article>]]></description>
-            <link>http://googleresearch.blogspot.com/2016/02/exploring-intersection-of-art-and.html</link>
-            <guid isPermaLink="false">aece79f2-04ce-42ae-9638-c8a113cdc69c</guid>
-            <pubDate>Wed, 24 Feb 2016 15:54:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
